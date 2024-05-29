@@ -1,5 +1,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PHlm5I7RKGSgA07_FKkPMpXAqzSbAwog?usp=sharing)
 
+[解説記事](https://plaza.umin.ac.jp/shoei05/index.php/2024/05/25/2518/) / [GPTs](https://chatgpt.com/g/g-oBq9SnKDY-replace-text )
+
 # replace_text
 
 Excel で定義したルールを用いてテキストファイルの誤字を自動修正する Python スクリプトです。 
